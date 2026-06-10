@@ -52,7 +52,7 @@ Use `god-mode-alist' instead.")
   '((nil . "C-")
     ("g" . "M-")
     ("G" . "C-M-"))
-  "List of keys and their associated modifer."
+  "List of keys and their associated modifier."
   :group 'god
   :type '(alist))
 
